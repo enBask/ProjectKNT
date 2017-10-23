@@ -7,11 +7,11 @@
 
 Download links:
 
-Mac OS: https://drive.google.com/uc?export=download&id=0B1Objq22-weMMmw4dDV5U3ZsWmM
+Mac OS: https://goo.gl/bsgZtv
 
-Win64: https://drive.google.com/uc?export=download&id=0B1Objq22-weMR3ptbExFMHNsaW8
+Win64: https://goo.gl/UtkUuV
 
-Linux 64: https://drive.google.com/uc?export=download&id=0B1Objq22-weMR19mR0JmYlI4NVU
+Linux 64: https://goo.gl/PsFM2F
 
 # Basic Rules:
 * King, Assassin, 2 Knights, and 2 Ninjas
