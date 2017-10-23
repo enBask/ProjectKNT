@@ -11,7 +11,7 @@ Mac OS: https://drive.google.com/uc?export=download&id=0B1Objq22-weMMmw4dDV5U3Zs
 
 Win64: https://drive.google.com/uc?export=download&id=0B1Objq22-weMR3ptbExFMHNsaW8
 
-Linux 64: Coming soon...
+Linux 64: https://drive.google.com/uc?export=download&id=0B1Objq22-weMR19mR0JmYlI4NVU
 
 # Basic Rules:
 * King, Assassin, 2 Knights, and 2 Ninjas
